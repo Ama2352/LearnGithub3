@@ -6,5 +6,9 @@ Hello world 07
 Hello world 08
 Hello world 10
 11th
+<<<<<<< HEAD
 12th
 14th
+=======
+>>>>>>> parent of 2fcf0aa (12th commit)
+15th
